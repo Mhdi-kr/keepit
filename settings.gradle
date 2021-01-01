@@ -1,3 +1,2 @@
-include ':keepit'
 rootProject.name='SQLite Database'
 include ':app'

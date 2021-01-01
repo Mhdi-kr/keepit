@@ -1,4 +1,4 @@
-package com.codedecode.yashpwr.view;
+package ir.robio.keepit.view;
 
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
@@ -17,11 +17,11 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.codedecode.yashpwr.R;
-import com.codedecode.yashpwr.database.DatabaseHelper;
-import com.codedecode.yashpwr.database.model.Note;
-import com.codedecode.yashpwr.utils.MyDividerItemDecoration;
-import com.codedecode.yashpwr.utils.RecyclerTouchListener;
+import ir.robio.keepit.R;
+import ir.robio.keepit.database.DatabaseHelper;
+import ir.robio.keepit.database.model.Note;
+import ir.robio.keepit.utils.MyDividerItemDecoration;
+import ir.robio.keepit.utils.RecyclerTouchListener;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
 import java.util.ArrayList;

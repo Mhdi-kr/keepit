@@ -1,4 +1,4 @@
-package com.codedecode.yashpwr.database.model;
+package ir.robio.keepit.database.model;
 
 public class Note {
     public static final String TABLE_NAME = "notes";

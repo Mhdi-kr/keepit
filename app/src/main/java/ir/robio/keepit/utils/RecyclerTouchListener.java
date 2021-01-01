@@ -1,4 +1,4 @@
-package com.codedecode.yashpwr.utils;
+package ir.robio.keepit.utils;
 
 import android.content.Context;
 import android.view.GestureDetector;

@@ -1,4 +1,4 @@
-package com.codedecode.yashpwr.database;
+package ir.robio.keepit.database;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -6,7 +6,7 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
-import com.codedecode.yashpwr.database.model.Note;
+import ir.robio.keepit.database.model.Note;
 
 import java.util.ArrayList;
 import java.util.List;
